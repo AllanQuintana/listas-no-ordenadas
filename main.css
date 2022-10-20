@@ -2,3 +2,6 @@ body {
     background-color: #eee;
 }
 
+ul li {
+    list-style-type: lower-alpha;
+}
